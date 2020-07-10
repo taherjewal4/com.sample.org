@@ -1,0 +1,5 @@
+com/sample/org/test/TestName.class
+com/sample/org/constant/TestConstants.class
+com/sample/org/test/TestCode.class
+com/sample/org/test/Base.class
+com/sample/org/core/RestHttpUtils.class
